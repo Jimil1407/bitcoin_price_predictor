@@ -31,7 +31,7 @@ Before you begin, ensure you have the following installed:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/bitcoin-price-predictor.git
+   git clone https://github.com/Jimil1407/bitcoin_price_predictor.git
    cd bitcoin-price-predictor
 
 2. **Run the prediction:**
