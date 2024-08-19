@@ -1,4 +1,4 @@
-# 📈 Bitcoin Price Predictor using FB Prophet
+# 📈 Bitcoin Price Predictor using FB Prophet.
 
 Welcome to the **Bitcoin Price Predictor** project! This repository contains a predictive model built with the powerful [FB Prophet](https://facebook.github.io/prophet/) library to forecast Bitcoin prices for the next year.
 
